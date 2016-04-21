@@ -2,7 +2,8 @@ README
 Developer Caleb Fahlgren programmed this in Python3 and tkinter. He released the first 
 stable version 1.01 on 4/21/2016. Email the developer at cfahlgren1@gmail.com for bug 
 fixes, suggestions, and updates. This application is open source under GNU General Public License.
-The source is located on GitHub at https://github.com/cfahlgren1/FTCApps.
+The source is located on GitHub at https://github.com/cfahlgren1/FTCApps. If you need the compiled
+version for BSD or Solaris please email me to compile it.
 
     Copyright (C) 2016  Caleb Fahlgren
 
