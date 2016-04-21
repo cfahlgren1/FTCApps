@@ -1,0 +1,20 @@
+README
+Developer Caleb Fahlgren programmed this in Python3 and tkinter. He released the first 
+stable version 1.01 on 4/21/2016. Email the developer at cfahlgren1@gmail.com for bug 
+fixes, suggestions, and updates. This application is open source under GNU General Public License.
+The source is located on GitHub at https://github.com/cfahlgren1/FTCApps.
+
+    Copyright (C) 2016  Caleb Fahlgren
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
