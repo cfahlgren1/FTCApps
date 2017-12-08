@@ -6,8 +6,6 @@ from tkinter.filedialog import askopenfilename
 from tkinter.filedialog import asksaveasfilename
 from tkinter.messagebox import showerror
 from time import gmtime, strftime
-#from docx import Document
-#from docx.shared import Inches
 import xlsxwriter
 
 export = "Excel"
